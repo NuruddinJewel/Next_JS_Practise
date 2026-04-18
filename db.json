@@ -1,0 +1,59 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Sony WH-1000XM5",
+            "category": "Headphones",
+            "price": 349.99,
+            "brand": "Sony",
+            "stock": 45,
+            "rating": 4.8,
+            "description": "Industry-leading noise canceling wireless headphones with 30-hour battery life.",
+            "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+        },
+        {
+            "id": 2,
+            "name": "Apple iPad Pro 12.9\"",
+            "category": "Tablets",
+            "price": 1099.99,
+            "brand": "Apple",
+            "stock": 30,
+            "rating": 4.9,
+            "description": "Powerful M2 chip tablet with Liquid Retina XDR display and Apple Pencil support.",
+            "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400"
+        },
+        {
+            "id": 3,
+            "name": "Samsung 65\" QLED 4K TV",
+            "category": "Televisions",
+            "price": 1299.99,
+            "brand": "Samsung",
+            "stock": 15,
+            "rating": 4.7,
+            "description": "Quantum dot technology TV with HDR10+ and built-in smart hub.",
+            "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400"
+        },
+        {
+            "id": 4,
+            "name": "Logitech MX Master 3S",
+            "category": "Mice",
+            "price": 99.99,
+            "brand": "Logitech",
+            "stock": 120,
+            "rating": 4.8,
+            "description": "Advanced wireless mouse with 8K DPI sensor, quiet clicks, and ergonomic design.",
+            "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400"
+        },
+        {
+            "id": 5,
+            "name": "GoPro HERO12 Black",
+            "category": "Cameras",
+            "price": 399.99,
+            "brand": "GoPro",
+            "stock": 60,
+            "rating": 4.6,
+            "description": "5.3K action camera with HyperSmooth 6.0 stabilization and waterproof design.",
+            "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=400"
+        }
+    ]
+}
