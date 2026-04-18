@@ -7,6 +7,8 @@ const Header = () => {
         <li><a>Item 2</a></li> */}
         <li><Link href="/">Home</Link></li>
         <li><Link href="/posts">Posts</Link></li>
+        <li><Link href="/products">Products</Link></li>
+        {/* <li><Link href="/posts">Posts</Link></li> */}
         {/* // <li><a>Item 3</a></li> */}
         {/* Root */}
     </>
